@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kana!
 - 🌱 I’ve graduated from a full-stack bootcamp.
-- 👀 I love modern technology and I am interested in AI.
+- 👀 I love modern technology and I'm interested in AI.
 - 💞️ I’m looking for a software development position.
 - 📫 Please reach out to me on <a href="https://www.linkedin.com/in/kanaenumatalee">LinkedIn</a>.
