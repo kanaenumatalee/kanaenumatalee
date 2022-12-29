@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋 I'm Kana</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h2 align="center">A passionate full stack developer</h3>
 
 <div align="center">
-👨‍💻 All of my projects are available <a href="https://kanaenumatalee.github.io/portfolio/">here</a>
-
-📄 Know about my experiences <a href="https://www.linkedin.com/in/kanaenumatalee/">here</a>
-
+  <h3>
+    👨‍💻 All of my projects are available <a href="https://kanaenumatalee.github.io/portfolio/">here</a>
+  </h3>
+  <h3> 
+    📄 Know about my experiences <a href="https://www.linkedin.com/in/kanaenumatalee/">here</a>
+  </h3>
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
